@@ -219,7 +219,6 @@ osTicket
 
 I then supplied the database name and lab database credentials to the osTicket web installer.
 
-> **Portfolio evidence to add:** I did not include a database screenshot in this version because one was not part of the screenshots I captured for this write-up. A HeidiSQL screenshot showing the `osTicket` database would make this section even stronger.
 
 ---
 
